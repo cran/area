@@ -1,6 +1,6 @@
 Package: area
 Title: Calculate Area of Triangles and Polygons
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: 
     person(given = "Michael",
            family = "Sumner",
@@ -21,9 +21,9 @@ BugReports: https://github.com/hypertidy/area/issues
 LinkingTo: cpp11
 Suggests: testthat
 NeedsCompilation: yes
-Packaged: 2023-04-04 11:24:25 UTC; mdsumner
+Packaged: 2023-12-21 10:53:54 UTC; gdal
 Author: Michael Sumner [aut, cre, cph]
     (<https://orcid.org/0000-0002-2471-7511>)
 Maintainer: Michael Sumner <mdsumner@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-04-04 20:30:06 UTC
+Date/Publication: 2023-12-21 11:20:02 UTC

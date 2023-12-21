@@ -1,15 +1,16 @@
-8c786183f0866d1ff02547bb65f56321 *DESCRIPTION
+3dad482b05d64857e9f811ebf4c7c99c *DESCRIPTION
 7564c66c44209b7680601c64e0f0c8ab *NAMESPACE
-2f4ff547e49a3e108560578face55fbf *NEWS.md
+d4c3b99a47adc1479edbc37ef5d6ca95 *NEWS.md
 e3b72401d9d63666e8d3da2171eb1027 *R/area-package.R
 479918b2ed511bdb4258930cc8487ac5 *R/cpp11.R
 09390f85e4853a5baf5cd82a640f0511 *R/polygons.R
+26746e9ec9fc8b4c04799844b11fc48c *R/sysdata.rda
 5ddd4fade11e04c36012f84cc9d0d82a *R/triangles.R
-0cce0c0930b26f119ff122b0c6e7755d *README.md
+df1b13c28fea20e3f278122de06ed7e1 *README.md
 9373b3404cbc975cf6329a78c761ac35 *data/mm.rda
 6ea9c61848ec28c491c2d6db8ab6c12c *data/mm_tri.rda
 14439daf404cb022e4479317c8ee1a3b *data/tas.rda
-f7bce39965421a028885862b75039893 *inst/include/area/area.h
+c2dd4bd352c420646d0d53c8d595c3f4 *inst/include/area/area.h
 023c43ae4b775f0915d6570cda462497 *man/area-package.Rd
 3ceff20fc3a934bc311c31d7dd2b08a8 *man/figures/README-tas-1.png
 8d83df9e183aed67ab76c575b3e45c1c *man/mm.Rd
@@ -21,5 +22,6 @@ d6d0f781001fd30acb9d905b7c1ada37 *src/area0.cpp
 12d2e1364a17d896f12319f7dd7b53ce *src/area0.h
 cafafb74096816cdd3e44e59f61e582a *src/cpp11.cpp
 45206f7c0f0e78f8a8453add1b98f1b3 *tests/testthat.R
+e6180269a4c5df125059ba8d6b90d57f *tests/testthat/test-advent-benchmark.R
 bf99168a89589947ab985a41a27a2d49 *tests/testthat/test-polygon-area.R
 78a42944be8e3733bd5eb55f98c775a1 *tests/testthat/test-triangle-area.R
